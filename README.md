@@ -1,2 +1,2 @@
 # Daily-Expense-Tracker
-To track dailu, weekly, monthly expenses.  
+To track daily, weekly, monthly expenses.  
